@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import numpy as np
 from tensorflow.keras.preprocessing.sequence import pad_sequences
